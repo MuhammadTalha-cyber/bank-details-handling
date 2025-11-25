@@ -46,6 +46,10 @@ int main() {
     while (getline(fin, line)) {
         cout << line << endl;
     }
+    cout<<"hi";
+    cout<<"hi";
+	cout<<"hi";
+	cout<<"hi";       
 
     fin.close();
 
